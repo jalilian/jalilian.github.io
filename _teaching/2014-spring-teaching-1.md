@@ -8,8 +8,9 @@ date: 2020-04-30
 location: "Kermanshah, Iran"
 ---
 
---rtl
+<p dir='rtl' align='right'>
   مبانی کامپیوتر و برنامه‌نویسی (برنامه‌سازی)
+</p>
 
 
 هفته‌ی اول
@@ -25,7 +26,4 @@ location: "Kermanshah, Iran"
 |---|---|
 | اول | اسلایدها |
   
---/rtl
-
-
 
