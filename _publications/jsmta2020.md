@@ -1,0 +1,1 @@
+Jalilian, A., Safari, A., & Sohrabi, H. (2020). Modeling spatial patterns and species associations in a Hyrcanian forest using a multivariate log-Gaussian Cox process. Journal of Statistical Modelling: Theory and Applications, 1-18.
