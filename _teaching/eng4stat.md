@@ -14,7 +14,7 @@ location: "Kermanshah, Iran"
 
 
 
-| دانلود مطالب | دسته‌بندی ||
+| دانلود مطالب | دسته‌بندی |
 |--:|---:|---:|
 | [متن](../files/eng4stat/eng4stat1.pdf) | [صدا](../files/eng4stat/eng4stat1.pdf) | هفته‌ی اول |
 | [متن](../files/Cpp/cpp2.pdf) | هفته‌ی دوم |
