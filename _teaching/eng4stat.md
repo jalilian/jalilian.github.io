@@ -16,10 +16,10 @@ location: "Kermanshah, Iran"
 
 ||    دانلود مطالب |    دسته‌بندی |
 |--:|---:|---:|
-| [متن](../files/eng4stat/eng4stat1.pdf) | [صدا](../files/eng4stat/eng4stat1.mp3) | هفته‌ی اول |
-| [متن](../files/Cpp/cpp2.pdf) | هفته‌ی دوم |
-| [متن](../files/Cpp/cpp3.pdf) | هفته‌ی سوم |
-| [متن](../files/Cpp/cpp4.pdf) | هفته‌ی چهارم |
+| [صدا](../files/eng4stat/eng4stat1.mp3) | [متن](../files/eng4stat/eng4stat1.pdf) | هفته‌ی اول |
+| [صدا](../files/eng4stat/eng4stat2.mp3) | [متن](../files/eng4stat/eng4stat2.pdf) | هفته‌ی دوم |
+| [صدا](../files/eng4stat/eng4stat3.mp3) | [متن](../files/eng4stat/eng4stat3.pdf) | هفته‌ی سوم |
+| [صدا](../files/eng4stat/eng4stat4.mp3) | [متن](../files/eng4stat/eng4stat4.pdf) | هفته‌ی چهارم |
 | متن | هفته‌ی پنجم |
 | متن | هفته‌ی ششم |
 | متن | هفته‌ی هفتم |
