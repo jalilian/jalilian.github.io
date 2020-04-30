@@ -1,7 +1,7 @@
 ---
 title: "Advanced Probability"
 collection: teaching
-type: "Master of Science"
+type: "Graduate course"
 permalink: /teaching/advprob
 venue: "Razi University, Department of Statistics"
 date: 2020-01-01
