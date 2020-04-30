@@ -1,9 +1,9 @@
 ---
-title: "Spring 2020"
+title: "C++ Programming"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "Razi University, Department of Statistics"
 date: 2020-04-30
 location: "City, Country"
 ---
