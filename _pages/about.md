@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-======
+---
 
 Assistant Professor of statistics at Razi University
