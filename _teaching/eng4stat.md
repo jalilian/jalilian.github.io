@@ -20,7 +20,7 @@ location: "Kermanshah, Iran"
 | [صدا](../files/eng4stat/eng4stat2.mp3) | [متن](../files/eng4stat/eng4stat2.pdf) | هفته‌ی دوم |
 | [صدا](../files/eng4stat/eng4stat3.mp3) | [متن](../files/eng4stat/eng4stat3.pdf) | هفته‌ی سوم |
 | [صدا](../files/eng4stat/eng4stat4.mp3) | [متن](../files/eng4stat/eng4stat4.pdf) | هفته‌ی چهارم |
-| متن | هفته‌ی پنجم | صدا |
+| هفته‌ی پنجم | متن | صدا |
 | متن | هفته‌ی ششم | صدا |
 | متن | هفته‌ی هفتم | صدا |
 | متن | هفته‌ی هشتم | صدا |
