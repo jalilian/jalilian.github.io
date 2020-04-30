@@ -28,14 +28,13 @@ Areas of Specialization
 * Spatial Statistics
 * Statistical Computing
 
-Skills
+Software Skills and Development
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Basic C++ programming 
+* Basic Python programming
+* R prgramming
+* ETAS: an R package for modeling earthquake data using the Epidemic Type After-shock Sequence model
+* Some contributions in the R package spatsta
 
 Publications
 ======
