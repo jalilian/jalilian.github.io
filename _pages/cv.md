@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+Born: 1983, Kermanshah, Iran
+Nationality: Iranian
+
 Education
 ======
 * B.S. in Statistics, University of Isfahan, 2005
