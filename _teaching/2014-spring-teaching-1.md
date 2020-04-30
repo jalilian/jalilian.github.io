@@ -13,7 +13,7 @@ location: "Kermanshah, Iran"
 </b></p>
 
 
-
+<p dir='rtl' align='right'>
 
 | دانلود مطالب | دسته‌بندی |
 |---:|---:|
@@ -32,3 +32,4 @@ location: "Kermanshah, Iran"
 | اسلایدها | هفته‌ی سیزدهم |
 | اسلایدها | هفته‌ی چهاردهم |
 
+</p>
