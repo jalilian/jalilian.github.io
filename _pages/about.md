@@ -10,4 +10,4 @@ redirect_from:
 
 ---
 
-Assistant Professor of statistics at Razi University
+Assistant Professor of Statistics at Razi University
