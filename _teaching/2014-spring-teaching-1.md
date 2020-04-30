@@ -10,8 +10,8 @@ location: "Kermanshah, Iran"
 
 <p dir='rtl' align='right'>
   مبانی کامپیوتر و برنامه‌نویسی (برنامه‌سازی)
-======
 </p>
+======
 
 <p dir='rtl' align='right'>
   
