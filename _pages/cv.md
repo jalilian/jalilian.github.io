@@ -33,8 +33,8 @@ Software Skills and Development
 * Basic C++ programming 
 * Basic Python programming
 * R prgramming
-* ETAS: an R package for modeling earthquake data using the Epidemic Type After-shock Sequence model
-* Some contributions in the R package spatsta
+* [ETAS](https://cran.r-project.org/web/packages/ETAS/index.html): an R package for modeling earthquake data using the Epidemic Type After-shock Sequence model
+* Some contributions in the R package [spatsta](https://cran.r-project.org/web/packages/spatstat/index.html)
 
 Publications
 ======
