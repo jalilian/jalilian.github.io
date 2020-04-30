@@ -20,16 +20,14 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Assistant Professor, Department of Statistics, Razi University (2012-present)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+Areas of Specialization
+======
+* Statistical Inference for Point Processes
+* Spatial Statistics
+* Statistical Computing
+
 Skills
 ======
 * Skill 1
