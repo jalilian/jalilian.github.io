@@ -11,3 +11,8 @@ redirect_from:
 ---
 
 Assistant Professor of Statistics at Razi University
+
+Research interests
+* Statistical Inference for Point Processes
+* Spatial Statistics
+* Statistical Computing
