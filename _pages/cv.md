@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Born: 1983, Kermanshah, Iran
-Nationality: Iranian
+* Born: 1983, Kermanshah, Iran
+* Nationality: Iranian
 
 Education
 ======
