@@ -13,8 +13,9 @@ location: "Kermanshah, Iran"
 </b></p>
 
 <p dir='rtl' align='right'>
-  <br>طرح درس: فایل
-  کانال اطلاع‌رسانی:
+  طرح درس: فایل
+  <br/>
+  کانال اطلاع‌رسانی: <a href="https://t.me/razicppstat">https://t.me/razicppstat</a>
 </p>
 
 | دانلود مطالب | دسته‌بندی |
