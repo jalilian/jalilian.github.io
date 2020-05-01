@@ -13,7 +13,7 @@ location: "Kermanshah, Iran"
 </b></p>
 
 <p dir='rtl' align='right'>
-  طرح درس: فایل
+  طرح درس: <a href="../files/Cpp/cppSyllabus.pdf">syllabus</a>
   <br/>
   کانال اطلاع‌رسانی: <a href="https://t.me/razicppstat">https://t.me/razicppstat</a>
 </p>
