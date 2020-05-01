@@ -15,7 +15,7 @@ location: "Kermanshah, Iran"
 <p dir='rtl' align='right'>
   <br>طرح درس: فایل
   کانال اطلاع‌رسانی:
-<p>
+</p>
 
 | دانلود مطالب | دسته‌بندی |
 |---:|---:|
