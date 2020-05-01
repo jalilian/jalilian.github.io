@@ -15,7 +15,7 @@ location: "Kermanshah, Iran"
 <p dir='rtl' align='right'>
   <!-- طرح درس: <a href="../files/Cpp/cppSyllabus.pdf">syllabus</a> -->
   <br/>
-  کانال اطلاع‌رسانی: <a href="https://t.me/eng4stat">https://t.me/eng4stat</a>
+  کانال اطلاع‌رسانی: <a href="https://t.me/advprobability">https://t.me/advprobability</a>
   <br/>
   کلاس مجازی: <a href="https://lms.razi.ac.ir">https://lms.razi.ac.ir</a>
 </p>
