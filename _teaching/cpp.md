@@ -16,6 +16,8 @@ location: "Kermanshah, Iran"
   طرح درس: <a href="../files/Cpp/cppSyllabus.pdf">syllabus</a>
   <br/>
   کانال اطلاع‌رسانی: <a href="https://t.me/razicppstat">https://t.me/razicppstat</a>
+  <br/>
+  کلاس مجازی: <a href="https://lms.razi.ac.ir">https://lms.razi.ac.ir</a>
 </p>
 
 | دانلود مطالب | دسته‌بندی |
