@@ -10,7 +10,9 @@ location: "Kermanshah, Iran"
 
 <p dir='rtl' align='right'><b>
   زبان تخصصی برای دانشجویان آمار
-</b></p>
+</b> <br/>
+  چهارشنبه 12:15
+</p>
 
 
 <p dir='rtl' align='right'>
