@@ -10,7 +10,10 @@ location: "Kermanshah, Iran"
 
 <p dir='rtl' align='right'><b>
   مبانی کامپیوتر و برنامه‌نویسی (برنامه‌سازی)
-</b></p>
+</b><br/>
+  گروه 02: شنبه 13:15 و چهارشنبه 15:30 (گردشی) <br/>
+  گروه 10: سه‌شنبه 15:30 و چهارشنبه 18:45 (گردشی)
+</p>
 
 <p dir='rtl' align='right'>
   طرح درس: <a href="../files/Cpp/cppSyllabus.pdf">syllabus</a>
