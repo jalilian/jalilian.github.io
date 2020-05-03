@@ -10,7 +10,9 @@ location: "Kermanshah, Iran"
 
 <p dir='rtl' align='right'><b>
   احتمال پیشرفته
-</b></p>
+</b><br/>
+  یکشنبه 17:45 و سه‌شنبه 12:15
+</p>
 
 <p dir='rtl' align='right'>
   <!-- طرح درس: <a href="../files/Cpp/cppSyllabus.pdf">syllabus</a> -->
