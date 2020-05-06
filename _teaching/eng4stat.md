@@ -30,8 +30,8 @@ location: "Kermanshah, Iran"
 | [صدا](../files/eng4stat/eng4stat2.mp3) | [متن](../files/eng4stat/eng4stat2.pdf) | هفته‌ی دوم |
 | [صدا](../files/eng4stat/eng4stat3.mp3) | [متن](../files/eng4stat/eng4stat3.pdf) | هفته‌ی سوم |
 | [صدا](../files/eng4stat/eng4stat4.mp3) | [متن](../files/eng4stat/eng4stat4.pdf) | هفته‌ی چهارم |
-| صدا | متن | هفته‌ی پنجم |
-| صدا | متن | هفته‌ی ششم |
+| صدا | [متن](../files/eng4stat/eng4stat5.pdf) | هفته‌ی پنجم |
+| صدا | [متن](../files/eng4stat/eng4stat6.pdf) | هفته‌ی ششم |
 | صدا | متن | هفته‌ی هفتم |
 | صدا | متن | هفته‌ی هشتم |
 | صدا | متن | هفته‌ی نهم |
