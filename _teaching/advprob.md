@@ -15,7 +15,7 @@ location: "Kermanshah, Iran"
 </p>
 
 <p dir='rtl' align='right'>
-  <!-- طرح درس: <a href="../files/Cpp/cppSyllabus.pdf">syllabus</a> -->
+  طرح درس: <a href="../files/Cpp/advprobSyllabus.pdf">syllabus</a>
   <br/>
   کانال اطلاع‌رسانی: <a href="https://t.me/advprobability">https://t.me/advprobability</a>
   <br/>
