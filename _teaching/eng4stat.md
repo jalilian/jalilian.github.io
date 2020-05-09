@@ -16,7 +16,7 @@ location: "Kermanshah, Iran"
 
 
 <p dir='rtl' align='right'>
-  <!-- طرح درس: <a href="../files/Cpp/cppSyllabus.pdf">syllabus</a> -->
+  طرح درس: <a href="../files/eng4stat/eng4statSyllabus.pdf">syllabus</a>
   <br/>
   کانال اطلاع‌رسانی: <a href="https://t.me/eng4stat">https://t.me/eng4stat</a>
   <br/>
