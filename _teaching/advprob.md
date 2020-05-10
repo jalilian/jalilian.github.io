@@ -25,7 +25,7 @@ location: "Kermanshah, Iran"
 
 | دانلود مطالب | دسته‌بندی |
 |---:|---:|
-| [دست‌نوشته](../files/advprob/AdvProb1.pdf) | هفته‌ی اول |
+| [جلسه اول](../files/advprob/AdvProb1.pdf)    [جلسه دوم](../files/advprob/AdvProb2.pdf) | هفته‌ی اول |
 | [دست‌نوشته](../files/advprob/AdvProb2.pdf) | هفته‌ی دوم |
 | [دست‌نوشته](../files/advprob/AdvProb3.pdf) | هفته‌ی سوم |
 | [دست‌نوشته](../files/advprob/AdvProb4.pdf) | هفته‌ی چهارم |
