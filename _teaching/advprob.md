@@ -22,8 +22,8 @@ location: "Kermanshah, Iran"
   کلاس مجازی: <a href="https://lms.razi.ac.ir">https://lms.razi.ac.ir</a>
 </p>
 
-
-| دانلود مطالب <td colspan=2>triple | دسته‌بندی  |
+|---:|---:|---:|
+| دانلود مطالب <td colspan=2> | دسته‌بندی  |
 |---:|---:|
 | [خلاصه‌ی جلسه‌ی اول](../files/advprob/AdvProb1.pdf) | [خلاصه‌ی جلسه‌ی دوم](../files/advprob/AdvProb2.pdf) | هفته‌ی اول |
 | [خلاصه‌ی جلسه‌ی سوم](../files/advprob/AdvProb3.pdf)     [خلاصه‌ی جلسه‌ی چهارم](../files/advprob/AdvProb4.pdf) | هفته‌ی دوم |
