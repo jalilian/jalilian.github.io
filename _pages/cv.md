@@ -9,8 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+Personal
+======
 * Born: 1983, Kermanshah, Iran
 * Nationality: Iranian
+* Marital status: married, one child
 
 Education
 ======
