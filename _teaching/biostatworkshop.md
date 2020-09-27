@@ -2,7 +2,7 @@
 title: "Biostatistics Workshop"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/stat4eng
+permalink: /teaching/biostatworkshop
 venue: "Razi University, Department of Statistics"
 date: 2020-09-01
 location: "Kermanshah, Iran"
@@ -15,7 +15,7 @@ location: "Kermanshah, Iran"
 </p>
 
 <p dir='rtl' align='right'>
-  طرح درس: <a href="../files/stat4eng/stat4engSyllabus.pdf">syllabus</a>
+  طرح درس: <a href="../files/biostatworkshop/biostatworkshopSyllabus.pdf">syllabus</a>
   <br/>
   کانال اطلاع‌رسانی: <a href="https://t.me/biostatworkshop">https://t.me/biostatworkshop</a>
   <br/>
