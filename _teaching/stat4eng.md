@@ -11,7 +11,7 @@ location: "Kermanshah, Iran"
 <p dir='rtl' align='right'><b>
   آمار و احتمالات مهندسی
 </b><br/>
-  یکشنبه 15:45 
+  دوشنبه 14:00 و چهارشنبه 16:15 
 </p>
 
 <p dir='rtl' align='right'>
