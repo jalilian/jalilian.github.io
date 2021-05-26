@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/eng4stat
 venue: "Razi University, Department of Statistics"
-date: 2020-04-30
+date: 2021-04-30
 location: "Kermanshah, Iran"
 ---
 
@@ -32,7 +32,7 @@ location: "Kermanshah, Iran"
 | [صدا](../files/eng4stat/eng4stat4.mp3) | [متن](../files/eng4stat/eng4stat4.pdf) | هفته‌ی چهارم |
 | صدا | [متن](../files/eng4stat/eng4stat5.pdf) | هفته‌ی پنجم |
 | صدا | [متن](../files/eng4stat/eng4stat6.pdf) | هفته‌ی ششم |
-| صدا | متن | هفته‌ی هفتم |
+| صدا | [متن](../files/eng4stat/eng4stat7.pdf) | هفته‌ی هفتم |
 | صدا | متن | هفته‌ی هشتم |
 | صدا | متن | هفته‌ی نهم |
 | صدا | متن | هفته‌ی دهم |
