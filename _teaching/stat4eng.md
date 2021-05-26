@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/stat4eng
 venue: "Razi University, Department of Statistics"
-date: 2020-09-01
+date: 2021-03-01
 location: "Kermanshah, Iran"
 ---
 
